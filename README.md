@@ -1,11 +1,14 @@
 # POTATO IMAGE CONVERT v1.0.0
 
+## WHAT IS THAT?
+**This is a minimalist easy to use program to transform your image file extension**
+
 ## WHY THIS?
 **I AM TIRED OF GETTING THE WRONG IMAGE EXTENSION I WANTED SO I JUST USE COMPUTER MAGIC**
 
 ## HOW DOES IT LOOK LIKES?
 
-![image](https://github.com/Potatooff/Image-Convertor/assets/112786274/8ff4d0bd-13e4-435e-9b0a-a56950276b71)
+![ui_image](https://github.com/Potatooff/Image-Convertor/assets/112786274/8ff4d0bd-13e4-435e-9b0a-a56950276b71)
 
 ## HOW TO SET UP?
 **1- Download the source file from github**
