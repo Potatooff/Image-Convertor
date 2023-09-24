@@ -8,7 +8,7 @@
 
 ## HOW DOES IT LOOK LIKES?
 
-![ui_image](https://github.com/Potatooff/Image-Convertor/assets/112786274/8ff4d0bd-13e4-435e-9b0a-a56950276b71)
+![ui_image](https://raw.githubusercontent.com/Potatooff/Image-Convertor/main/assets/112786274/8ff4d0bd-13e4-435e-9b0a-a56950276b71.png)
 
 ## HOW TO SET UP?
 **1- Download the source file from github**
