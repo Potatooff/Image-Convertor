@@ -23,6 +23,7 @@
 
 
   - Once its done you can close command prompt
+
 **3- Run 'run.bat' file to run the script all itself or run 'Main.py' manually using command prompt from source code directory to launch app**
 
 **4- YOU DID IT, IT'S running!**
